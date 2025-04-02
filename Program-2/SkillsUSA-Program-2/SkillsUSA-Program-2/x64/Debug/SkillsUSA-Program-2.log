@@ -1,0 +1,5 @@
+﻿  SkillsUSA-Program-2.cpp
+C:\Users\Megak\source\repos\SkillsUSA-Program-2\SkillsUSA-Program-2\SkillsUSA-Program-2.cpp(42,20): warning C4101: 'position': unreferenced local variable
+C:\Users\Megak\source\repos\SkillsUSA-Program-2\SkillsUSA-Program-2\SkillsUSA-Program-2.cpp(148,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Megak\source\repos\SkillsUSA-Program-2\SkillsUSA-Program-2\SkillsUSA-Program-2.cpp(125,1): warning C4715: 'handleRequest': not all control paths return a value
+  SkillsUSA-Program-2.vcxproj -> C:\Users\Megak\source\repos\SkillsUSA-Program-2\x64\Debug\SkillsUSA-Program-2.exe
